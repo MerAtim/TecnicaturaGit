@@ -9,3 +9,5 @@ Checkout es uno de los comandos.
 4 lineas de comando
 
 probando nueva rama proyecto
+
+Vamos a probar git Stash
