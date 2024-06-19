@@ -4,18 +4,23 @@
 -=
 *=
 /=
+%=
+**=
 
 ## Operadores Aritmeticos:
 +
 -
 *
 /
+%
+**
 
 ## Operadores de asignación:
 =
 
-## Operadores de comparación: 
+## Operadores de comparación (bool): 
 ==
+=== 
 
 ## Documentar:
 // Para una línea de comentario.
@@ -33,6 +38,20 @@
 
 ## Operador de aumento:
 ++
+_Ejemplo: let z = ++a;_ PreIncremento
+_Ejemplo: let z = a++;_ PostIncremento (Evalua de izquierda a derecha)
 
 ## Operador de decremento:
 --
+_Ejemplo: let z = --a;_ PreDecremento
+_Ejemplo: let z = a--;_ PostDecremento
+
+## Operador Distinto (bool):
+!= _Comprueba el valor sin revisar el tipo_
+!== _Comprueba valor y tipo_
+
+## Operadores Relacionales (bool):
+<
+>
+<=
+>=
