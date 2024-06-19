@@ -38,13 +38,13 @@
 
 ## Operador de aumento:
 ++
-_Ejemplo: let z = ++a;_ PreIncremento
-_Ejemplo: let z = a++;_ PostIncremento (Evalua de izquierda a derecha)
+**Ejemplo: let z = ++a;** PreIncremento
+**Ejemplo: let z = a++;** PostIncremento (Evalua de izquierda a derecha)
 
 ## Operador de decremento:
 --
-_Ejemplo: let z = --a;_ PreDecremento
-_Ejemplo: let z = a--;_ PostDecremento
+**Ejemplo: let z = --a;** PreDecremento
+**Ejemplo: let z = a--;** PostDecremento
 
 ## Operador Distinto (bool):
 != _Comprueba el valor sin revisar el tipo_
@@ -55,3 +55,7 @@ _Ejemplo: let z = a--;_ PostDecremento
 >
 <=
 >=
+
+## Operadores Logicos:
+&& _es AND. Se escribe con doble ampersand_
+|| _es OR. Se escribe con doble barra vertical_
