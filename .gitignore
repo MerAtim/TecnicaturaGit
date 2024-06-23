@@ -1,2 +1,8 @@
 #Aqui esta la lista de todos los archivos ignorados
 requisitos.txt
+/Programacion Java/SegundaClaseJava/nbproject/private/
+/Programacion Java/SegundaClaseJava/build/
+/Programacion Java/TerceraClaseDeJava/nbproject/private/
+/Programacion Java/TerceraClaseDeJava/build/
+/Programacion Java/CuartaClaseDeJava/nbproject/private/
+/Programacion Java/CuartaClaseDeJava/build/
