@@ -1,5 +1,4 @@
 package decimaclasedejava;
-
 import java.util.Scanner;
 
 public class SentenciaDeControlSwitch {
@@ -28,8 +27,6 @@ public class SentenciaDeControlSwitch {
             default:
                 numeroTexto = "Caso no encontrado.";
         }
-
         System.out.println(numeroTexto);
     }
-
 }

@@ -25,5 +25,6 @@ public class Ejercicio1CondicionalEstacionesDelAño {
         else  if (mes == 9 || mes == 10|| mes == 11){
             estacion = "Primavera";
         } 
+        System.out.println(estacion);
     }
 }

@@ -20,7 +20,5 @@ public class Ejercicio1ElpromedioDeTresNotas {
         } else {
             System.out.println("El alumno reprobó el curso con un promedio de: " + promedio);
         }
-
     }
-
 }

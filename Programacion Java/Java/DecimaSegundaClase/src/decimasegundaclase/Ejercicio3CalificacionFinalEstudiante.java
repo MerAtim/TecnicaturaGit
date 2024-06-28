@@ -4,7 +4,6 @@
 //calificación final con ponderaciones de 10%, 25%, 25% y 40%, Hacer un programa que 
 //calcule e imprima la calificación final obtenida por un estudiante. 
 //Que el usuario digite las calificaciones de estos 4 datos y así podremos tener,la calificación final.
-
 package decimasegundaclase;
 
 import java.util.Scanner;
@@ -29,7 +28,6 @@ public class Ejercicio3CalificacionFinalEstudiante {
         float ponderacionExamenFinal =  examenFinal * 0.25F;
         
         float calificacionFinal = (ponderacionParticipacion+ponderacionParcial1+ponderacionParcial2+ponderacionExamenFinal);
-    
-        System.out.println("La calificación final del estudiante es: " + calificacionFinal);
+            System.out.println("La calificación final del estudiante es: " + calificacionFinal);
     }
 }

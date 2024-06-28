@@ -1,7 +1,5 @@
 package decimaclasedejava;
-
 public class SentenciaIfElse {
-
     public static void main(String[] args) {
 
         var condicion = true;

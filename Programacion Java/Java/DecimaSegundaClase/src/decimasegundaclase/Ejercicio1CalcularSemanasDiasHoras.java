@@ -18,8 +18,8 @@ public class Ejercicio1CalcularSemanasDiasHoras {
         int dias = horasRestantes / 24;
         int horas = horasRestantes % 24;
         
-        System.out.println("Las horas ingresadas: " + horasTotales +" son equivalentes a: " + semana + " semanas, " + dias + " dias y " + horas+ " horas.");
+        System.out.println("Las horas ingresadas: " + horasTotales +" son equivalentes a: ");
+        System.out.println(semana + " semanas, " + dias + " dias y " + horas+ " horas.");
 
     }
-
 }

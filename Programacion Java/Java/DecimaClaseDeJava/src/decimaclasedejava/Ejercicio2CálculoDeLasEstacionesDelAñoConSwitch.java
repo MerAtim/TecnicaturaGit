@@ -27,7 +27,6 @@ public class Ejercicio2CálculoDeLasEstacionesDelAñoConSwitch {
                 estacion = "Primavera";
                 break;
           }
-        
         System.out.println(estacion);
     }
 }
