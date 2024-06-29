@@ -1,6 +1,6 @@
-let mes = 4;
+let mes = 8;
 let estacion;
-/*
+
 if(mes == 1 || mes == 2 || mes == 12){
     estacion = "Verano";
 }
@@ -17,7 +17,7 @@ else{
     estacion = "Mes incorrecto"
 }
 console.log("La estación del año es: "+estacion);
-*/
+
 
 switch(mes){
     case 1: case 2: case 12:
